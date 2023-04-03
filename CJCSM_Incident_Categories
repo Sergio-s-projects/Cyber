@@ -1,0 +1,14 @@
+#CJCSM_Incident_Categories
+
+CAT 0 = Training and Exercises
+CAT 1 = Root Level Intrusion (Incident)
+CAT 2 = User Level Intrusion (Incident)
+CAT 3 = Unsuccessful Activity Attempt (Event)
+CAT 4 = Denial of Service (Incident)
+CAT 5 = Non-compliance Activity (Event)
+CAT 6 = Reconnaissance (Event)
+CAT 7 = Malicious Logic (Incident)
+CAT 8 = Investigating (Event)
+CAT 9 = Explained Anomaly (Event)
+
+Refernece: CJCSM 6510.01B - 10 July 2012, Table B-A-2. Cyber Incident and Reportable Cyber Event Categories
